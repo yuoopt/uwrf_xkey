@@ -1,0 +1,20 @@
+{
+  "name": "uwrf_xkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuoopt/uwrf_xkey"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nbna_xid": "^1.0.0",
+    "oevg_xid": "^1.0.0"
+  }
+}
